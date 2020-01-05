@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+
+    <TextView
+        android:id="@+id/mesontitulo"
+        android:layout_width="match_parent"
+
+        android:layout_height="80dp"
+        android:padding="50px"
+        android:layout_columnSpan="10"
+        android:gravity="center_horizontal"
+        android:text="MesonCiclum"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textSize="70px" />
+
+
+
+
+</ScrollView>
